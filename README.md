@@ -1,4 +1,4 @@
-# portfolio-v2
+# My Portfolio V2.0
 
 
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
@@ -13,9 +13,9 @@ A new and improved portfolio for myself! My previous one was not up to quality, 
 
 ## Table of Contents
 
-2. [Usage](#usage)
-4. [License](#license)
-5. [Questions](#questions)
+1. [Usage](#usage)
+2. [License](#license)
+3. [Questions](#questions)
 
 ## Usage
 
