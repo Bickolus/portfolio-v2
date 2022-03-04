@@ -20,7 +20,7 @@ html {
 }
 
 body {
-  background: url('../images/hero-image.jpg');
+  background: url('../images/background-image.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   font-family: 'Abel', sans-serif;
