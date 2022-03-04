@@ -1,6 +1,5 @@
 # My Portfolio V2.0
 
-
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 ## Description
@@ -23,7 +22,7 @@ Just click on the deployed link and check it out!
 
 ## License
 
-This project is not under any license.
+This project is under the "Unlicense" license.
 
 ## Questions
 
