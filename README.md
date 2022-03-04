@@ -4,11 +4,11 @@
 
 ## Description
 
-A new and improved portfolio for myself! My previous one was not up to quality, and broke when viewed on mobile!
+A new and improved portfolio for myself! My previous one was not up to quality, and broke when viewed on mobile. 
 
 > Github Repository Link: [https://github.com/Bickolus/portfolio-v2](https://github.com/Bickolus/portfolio-v2
 >
-> Deployed Link:
+> Deployed Link: [https://bickolus.github.io/portfolio-v2/](https://bickolus.github.io/portfolio-v2/)
 
 ## Table of Contents
 
