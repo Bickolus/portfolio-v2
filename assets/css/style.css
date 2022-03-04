@@ -5,10 +5,10 @@
   --light-gray: #6c747a;
   --white: rgb(224, 224, 224);
   --green: #67962e;
-  --yellow-green: #86C232;
+  --yellow-green: #86c232;
   --site-border-radius: 0px 30px 0px 0px;
   --site-border-radius2: 0px 30px 0px 30px;
-  --site-border: solid 5px #86C232;
+  --site-border: solid 5px #86c232;
 }
 
 * {
@@ -20,10 +20,9 @@ html {
 }
 
 body {
-  background: url('../images/background-image.jpg');
+  background-color: var(--medium-gray);
   background-repeat: no-repeat;
-  background-attachment: fixed;
-  font-family: 'Abel', sans-serif;
+  font-family: "Abel", sans-serif;
 }
 
 a:link {
@@ -59,7 +58,7 @@ main section {
 }
 
 .icon-size {
-  font-size: 6.0rem;
+  font-size: 6rem;
 }
 .text-dark-gray {
   color: var(--dark-gray);
@@ -84,11 +83,11 @@ main section {
 
 .nav-link {
   color: var(--yellow-green) !important;
-  }
+}
 
 .nav-link:hover {
   color: var(--white) !important;
-  }
+}
 
 #profile-pic {
   width: 100%;
@@ -99,22 +98,18 @@ main section {
   transition: 0.3s;
 }
 
-/*
-When the browser's width becomes 576px, this is what happens:
-*/
+/* When the browser's width becomes 576px, this is what happens: */
 @media screen and (min-width: 576px) {
   #profile-pic {
-      max-width: 290px;
-      max-height: auto;
+    max-width: 290px;
+    max-height: auto;
   }
 }
 
-/*
-When the browser's width becomes 768px, this is what happens:
-*/
+/* When the browser's width becomes 768px, this is what happens: */
 @media screen and (min-width: 768px) {
   main section {
-      width: 735px;
+    width: 735px;
   }
 }
 
