@@ -115,7 +115,6 @@ When the browser's width becomes 768px, this is what happens:
 @media screen and (min-width: 768px) {
   main section {
       width: 735px;
-      /* max-width: 75%; */
   }
 }
 
