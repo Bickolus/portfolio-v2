@@ -14,7 +14,8 @@ A new and improved portfolio for myself! My previous one was not up to quality, 
 
 1. [Usage](#usage)
 2. [License](#license)
-3. [Questions](#questions)
+3. [Screenshots](#screenshots)
+4. [Questions](#questions)
 
 ## Usage
 
@@ -23,6 +24,14 @@ Just click on the deployed link and check it out!
 ## License
 
 This project is under the "Unlicense" license.
+
+## Screenshots
+
+### 1080p Monitor:
+![Screenshot of the Portfolio in 1080p Resolution](./screenshot1.png)
+
+### Mobile (smallest width possible):
+![Screenshot of the Portfolio in Mobile Resolution](./screenshot2.png)
 
 ## Questions
 
